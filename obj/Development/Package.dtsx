@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="77"
-  DTS:VersionGUID="{F952F594-7887-4D72-82EE-BD6DAC4C538F}">
+  DTS:VersionBuild="89"
+  DTS:VersionGUID="{D35CA469-87EC-4232-841F-F67693EF8F26}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABB7XCkbhUOGJR+rn7KHzYaNo6D/tau7BePq7Uq1UAlMwAAAAAOgAAAAAIAACAAAAAcjcaRmXrEyDPjw1JZ+6R0c0kOePgzFPHHyiUAXe32WSAAAAAz0nv9GIMNx9te/RnhLHXefvz+owRaFUj6bBCRgIt6HkAAAAAwaiUfQ/iD4NwM2CsjuGplt/WO02b3UsN4dNbqUCp4BLdlM8gzTwagM56uUs34vOfE+R7e1hkAYIdzAhGJ2sqs</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABAV2ecRLz3UWilOuKExr6wohNTQuoFk14djfVSJZnAMwAAAAAOgAAAAAIAACAAAABCsUHRO8v+mHTo6iWPlZgqZqrXsRq8UanpWTKeDBkSuiAAAAB/GKylWb7y3bibMj4fPdyXEgEZ/WRPhabIwXYKRksonEAAAAApf/v5M7KBWoo9UYEPYmRDIto6VTxbdPt7kRKX3dlMl8i2BlXKyQGrPocxVPqjPFbRTxlgi/9BzDKxfXmH3X7p</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA/GcZWwv4Ykdf/vdzqituPwwjIMBr5xoFmuuECAIX+LgAAAAAOgAAAAAIAACAAAABg4KhcdzUL2xfYtwjXoUpjLocQl/584KALJDUKp/XPtyAAAAD6i8XU6Kq4yi7WWGYmNWoE946yVZcX5OkRL0GTijM3p0AAAADNXCGEvtbkCq98xtok0BvM6DL7TW8TOJNVDW1+EvOSra/ix8h8P6/UH7/ArCT9N+4b9Ea57lyKWwJpFr/qug/5</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACH47QK6US9+IHp/5AxQ1y5HHFHZMT121lo+qli87lHjgAAAAAOgAAAAAIAACAAAAASOhmiEnhirtrECjZYgUwJrvLcelWWhpB+HsjHPa1vOCAAAABAmymq6w01HKY/KsG8tPD2gFqYzkTX1y0Gbka2fPLunEAAAADyiiuM5HHFozULXDPq7Qi/Rtvr0q5gUWcVpCO9pT5lXd+0qUBGuJ803YbwlIA5yXsu42rRNY6DuMWyOCHbe1fp</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACxDVb/8MxXmP1yAMuXgst9crZY6xix77c41vdyS5ti1AAAAAAOgAAAAAIAACAAAAAJzIG19qawpaF1KslX3sJXOMFyWZuagn5YfTSJbUlDiiAAAAB64SbvTuA6MyKfqQ1/GhGgQ1K4gogcL642E68nk2LLjkAAAABH2RAsbGkX8t2RO2iA7eblfr6WPc8Q9vQ/B1pai1TTBRy30poR8LWdD9vTA4tHCH8+58LKvjK4Lrf2KPSL/Pvt</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACSyDwAip2Kk8vLskDcfn3HSNAUJlN5a5yotmmdMJGYqwAAAAAOgAAAAAIAACAAAAD+99vLYCa4kTSYo6wY3MsDmE70eQNMl4gAsf6lTYXhBCAAAAD45MZoGzOsUuHL9NlPYRuzRyjr/49sKBWfnS5hY7rn/0AAAABiGmZsiwlCFNqs0noi0pyumcqw9XrjbtGpIu2lLTd1V+qfT9eVGEqLStv2oycewDPTSnEpTi+Ver4rdDdL80v3</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAlWYnWqJEJQpdSf5DqFi0FPi1JYNjsrqZB5dKILH1VZwAAAAAOgAAAAAIAACAAAAAiajpi+2E9zPIu9JByB9TWkizqVZ05etxds24APMEejCAAAAD/z6+NtQq/CWLIrS6sScBC13x4LbgBYc3NSneuNAlCYkAAAACtfv7SosUuStRr9XhvH6JXfAFqM+zxeCUQjIYA/JOaruzR8y1EbSmCjDPjXIhT2/5wpQpOyRLeQzsyRT/gDvkf</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6CIzwcA9MUmjNjtLqzWtHAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADiqHCb89o48OlOii6LGSVpqLilFznD8SqWHEd2futmAAAAAAAOgAAAAAIAACAAAAAe+Q/juNKWjudTUPYzm+0PKItA3RXdcW5LabrXk5q6BiAAAABgHY+IuaaIBvunex+gYMKWbDUuYtq6WIoCsSAAEsbiOkAAAAAA9Hydt+WGGijQfCpP8nEXe0g8JZWYueFw6zppyG5PMQW9JWqvkmw3lx/GwjUjcDKsq6AzgrTrnc99V8Y+it1e</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -4602,7 +4602,6 @@ from cte</property>
       DTS:refId="Package\Merge Into Target"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{59C7529B-5CDA-4124-8FE4-C89FAEBC92E6}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -4620,31 +4619,29 @@ from cte</property>
       DTS:refId="Package\Merge Into Target CMS"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{096B352F-A43C-40C6-9F9E-2BA49C7B45B4}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Merge Into Target CMS"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{27217E7F-9634-4192-B91D-91DA17A4A442}"
-          SQLTask:SqlStatementSource="merge into [ShadhinCMSDB].[dbo].[Tbl_ShadhinMusicUserActivationByVendorSummary] as target&#xA;using [dbo].[Tbl_ShadhinMusicUserActivationByVendor_Stage] as source&#xA;&#x9;on cast(target.ACTIVATIONDATE as date) = cast(source.ACTIVATIONDATE as date)&#xA;&#x9;&#x9;and target.VendorName = source.VendorName&#xA;when matched&#xA;&#x9;then&#xA;&#x9;&#x9;update&#xA;&#x9;&#x9;set target.BL = source.BL&#xA;&#x9;&#x9;&#x9;,target.GP = source.GP&#xA;&#x9;&#x9;&#x9;,target.ROBI = source.ROBI&#xA;&#x9;&#x9;&#x9;,target.bkash = source.bkash&#xA;&#x9;&#x9;&#x9;,target.TOTALACTIVATIONCOUNT = source.TOTALACTIVATIONCOUNT&#xA;&#x9;&#x9;&#x9;,target.LastUpdate = getdate()&#xA;when not matched&#xA;&#x9;then&#xA;&#x9;&#x9;insert (&#xA;&#x9;&#x9;&#x9;ACTIVATIONDATE&#xA;&#x9;&#x9;&#x9;,VendorName&#xA;&#x9;&#x9;&#x9;,BL&#xA;&#x9;&#x9;&#x9;,GP&#xA;&#x9;&#x9;&#x9;,ROBI&#xA;&#x9;&#x9;&#x9;,bkash&#xA;&#x9;&#x9;&#x9;,TOTALACTIVATIONCOUNT&#xA;&#x9;&#x9;&#x9;,LastUpdate&#xA;&#x9;&#x9;&#x9;)&#xA;&#x9;&#x9;values (&#xA;&#x9;&#x9;&#x9;source.ACTIVATIONDATE&#xA;&#x9;&#x9;&#x9;,source.VendorName&#xA;&#x9;&#x9;&#x9;,source.BL&#xA;&#x9;&#x9;&#x9;,source.GP&#xA;&#x9;&#x9;&#x9;,source.ROBI&#xA;&#x9;&#x9;&#x9;,source.bkash&#xA;&#x9;&#x9;&#x9;,source.TOTALACTIVATIONCOUNT&#xA;&#x9;&#x9;&#x9;,getdate()&#xA;&#x9;&#x9;&#x9;);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AAF518A4-B0DF-422E-81DE-FFEAEB1B15ED}"
+          SQLTask:SqlStatementSource="WITH FinalData AS (&#xA;    SELECT&#xA;        CAST(ACTIVATIONDATE AS DATE) AS ACTIVATIONDATE,&#xA;        VendorName,&#xA;        SUM(BL) AS BL,&#xA;        SUM(GP) AS GP,&#xA;        SUM(ROBI) AS ROBI,&#xA;        SUM(bkash) AS bkash,&#xA;        SUM(TOTALACTIVATIONCOUNT) AS TOTALACTIVATIONCOUNT&#xA;    FROM [ShadhinCMSDB].[dbo].[Tbl_ShadhinMusicUserActivationByVendor_Stage]&#xA;    GROUP BY CAST(ACTIVATIONDATE AS DATE), VendorName&#xA;)&#xA;MERGE INTO [ShadhinCMSDB].[dbo].[Tbl_ShadhinMusicUserActivationByVendorSummary] AS target&#xA;USING FinalData AS source&#xA;    ON CAST(target.ACTIVATIONDATE AS DATE) = source.ACTIVATIONDATE&#xA;    AND target.VendorName = source.VendorName&#xA;WHEN MATCHED THEN&#xA;    UPDATE SET&#xA;        target.BL = source.BL,&#xA;        target.GP = source.GP,&#xA;        target.ROBI = source.ROBI,&#xA;        target.bkash = source.bkash,&#xA;        target.TOTALACTIVATIONCOUNT = source.TOTALACTIVATIONCOUNT,&#xA;        target.LastUpdate = GETDATE()&#xA;WHEN NOT MATCHED THEN&#xA;    INSERT (&#xA;        ACTIVATIONDATE, VendorName, BL, GP, ROBI, bkash, TOTALACTIVATIONCOUNT, LastUpdate&#xA;    )&#xA;    VALUES (&#xA;        source.ACTIVATIONDATE, source.VendorName, source.BL, source.GP, source.ROBI, source.bkash, source.TOTALACTIVATIONCOUNT, GETDATE()&#xA;    );&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
       DTS:refId="Package\Truncate Stage Table"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{12027443-033D-41B3-8763-D9C0CEA5B85E}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Stage Table"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -4656,21 +4653,62 @@ from cte</property>
       DTS:refId="Package\Truncate Stage Table CMS"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{F7384FBC-9360-4C08-8D2C-5F65F19B486D}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Stage Table CMS"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{27217E7F-9634-4192-B91D-91DA17A4A442}"
+          SQLTask:Connection="{AAF518A4-B0DF-422E-81DE-FFEAEB1B15ED}"
           SQLTask:SqlStatementSource="truncate table [dbo].[Tbl_ShadhinMusicUserActivationByVendor_Stage]" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{8D8B46DA-F915-463E-80ED-62ABE6FAF69A}"
+      DTS:From="Package\Collect Data"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Merge Into Target" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{D54F1E25-243C-416E-8742-8A180416D41D}"
+      DTS:From="Package\Merge Into Target"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 1"
+      DTS:To="Package\Truncate Stage Table" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
+      DTS:CreationName=""
+      DTS:DTSID="{035B9609-46A1-4C96-824D-1131281DCC6E}"
+      DTS:From="Package\Collect Data CMS"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 2"
+      DTS:To="Package\Merge Into Target CMS" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 3]"
+      DTS:CreationName=""
+      DTS:DTSID="{A654D3DD-FCCC-452B-8C07-502FC0590DA0}"
+      DTS:From="Package\Merge Into Target CMS"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 3"
+      DTS:To="Package\Truncate Stage Table CMS" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 4]"
+      DTS:CreationName=""
+      DTS:DTSID="{68D3F861-0E41-47AD-A5B3-A33ECB7380D6}"
+      DTS:From="Package\Truncate Stage Table"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 4"
+      DTS:To="Package\Collect Data CMS" />
+  </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
 <!--If you manually edit this section and make a mistake, you can delete it. -->
@@ -4682,7 +4720,7 @@ from cte</property>
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:s="clr-namespace:System;assembly=mscorlib">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib">
         <NodeLayout
           Size="182.666666666667,42.6666666666667"
           Id="Package\Truncate Stage Table"
@@ -4695,48 +4733,222 @@ from cte</property>
           Size="137.333333333334,42.6666666666667"
           Id="Package\Collect Data"
           TopLeft="5.5,5.5" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="74.1666666666667,48.1666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="51.1458316429827,32.9385956610973"
+              Start="0,0"
+              End="51.1458316429827,25.4385956610973">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,12.4692978305487" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,12.4692978305487"
+                    Point2="0,16.4692978305487"
+                    Point3="4,16.4692978305487" />
+                  <mssgle:LineSegment
+                    End="47.1458316429827,16.4692978305487" />
+                  <mssgle:CubicBezierSegment
+                    Point1="47.1458316429827,16.4692978305487"
+                    Point2="51.1458316429827,16.4692978305487"
+                    Point3="51.1458316429827,20.4692978305487" />
+                  <mssgle:LineSegment
+                    End="51.1458316429827,25.4385956610973" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="125.312498309649,123.771928994431">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="48.8645815661487,44.2105253692154"
+              Start="0,0"
+              End="48.8645815661487,36.7105253692154">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.1052626846077" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,18.1052626846077"
+                    Point2="0,22.1052626846077"
+                    Point3="4,22.1052626846077" />
+                  <mssgle:LineSegment
+                    End="44.8645815661487,22.1052626846077" />
+                  <mssgle:CubicBezierSegment
+                    Point1="44.8645815661487,22.1052626846077"
+                    Point2="48.8645815661487,22.1052626846077"
+                    Point3="48.8645815661487,26.1052626846077" />
+                  <mssgle:LineSegment
+                    End="48.8645815661487,36.7105253692154" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <GroupLayout
           Text="Shadhin Dashboard Data"
           ParentId="Package"
           HeaderHeight="43"
           IsExpanded="True"
           PanelSize="280,265.333333333334"
-          Size="280,308"
+          Size="280,308.666666666667"
           Id="b39d3fba-ad0f-4121-a6ae-d71e15872d8d"
-          TopLeft="40.4374979464339,55.1052626132388">
+          TopLeft="72.5803536523933,57.0601498098196">
           <GroupLayout.ChildrenIds>
             <s:String>Package\Truncate Stage Table</s:String>
             <s:String>Package\Merge Into Target</s:String>
             <s:String>Package\Collect Data</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint]</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 1]</s:String>
           </GroupLayout.ChildrenIds>
         </GroupLayout>
         <NodeLayout
           Size="164,42.6666666666667"
           Id="Package\Collect Data CMS"
-          TopLeft="5.5,5.5" />
+          TopLeft="17.9999994412063,31.8909771538413" />
         <NodeLayout
           Size="190.666666666667,42.6666666666667"
           Id="Package\Merge Into Target CMS"
-          TopLeft="50.8124979743735,88.4605254048992" />
+          TopLeft="63.3124974155798,114.851502558741" />
         <NodeLayout
           Size="208,42.6666666666667"
           Id="Package\Truncate Stage Table CMS"
-          TopLeft="100.031245774124,177.407892849327" />
+          TopLeft="112.53124521533,203.798870003168" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 2]"
+          TopLeft="99.9999994412063,74.557643820508">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="58.6458313077068,40.2938587382325"
+              Start="0,0"
+              End="58.6458313077068,32.7938587382325">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.1469293691163" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.1469293691163"
+                    Point2="0,20.1469293691163"
+                    Point3="4,20.1469293691163" />
+                  <mssgle:LineSegment
+                    End="54.6458313077068,20.1469293691163" />
+                  <mssgle:CubicBezierSegment
+                    Point1="54.6458313077068,20.1469293691163"
+                    Point2="58.6458313077068,20.1469293691163"
+                    Point3="58.6458313077068,24.1469293691163" />
+                  <mssgle:LineSegment
+                    End="58.6458313077068,32.7938587382325" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 3]"
+          TopLeft="158.645830748913,157.518169225407">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="57.8854144664172,46.2807007777611"
+              Start="0,0"
+              End="57.8854144664172,38.7807007777611">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19.1403503888806" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19.1403503888806"
+                    Point2="0,23.1403503888806"
+                    Point3="4,23.1403503888806" />
+                  <mssgle:LineSegment
+                    End="53.8854144664172,23.1403503888806" />
+                  <mssgle:CubicBezierSegment
+                    Point1="53.8854144664172,23.1403503888806"
+                    Point2="57.8854144664172,23.1403503888806"
+                    Point3="57.8854144664172,27.1403503888806" />
+                  <mssgle:LineSegment
+                    End="57.8854144664172,38.7807007777611" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <GroupLayout
-          Text="Group 2"
+          Text="CMS Data"
           ParentId="Package"
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="313.333333333334,274.666666666667"
-          Size="313.333333333334,318"
+          PanelSize="332.666666666667,301.333333333334"
+          Size="332.666666666667,344.666666666667"
           Id="05cd752b-d2a8-4519-b79d-ead557833e02"
-          TopLeft="439.031230127905,43.1315785341811">
+          TopLeft="499.685989321187,263.912139525595">
           <GroupLayout.ChildrenIds>
             <s:String>Package\Collect Data CMS</s:String>
             <s:String>Package\Merge Into Target CMS</s:String>
             <s:String>Package\Truncate Stage Table CMS</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 2]</s:String>
+            <s:String>Package.PrecedenceConstraints[Constraint 3]</s:String>
           </GroupLayout.ChildrenIds>
         </GroupLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="246.666666666667,310.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="353.333333333333,27.9999999999999"
+              Start="0,0"
+              End="353.333333333333,20.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,9.99999999999997" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,9.99999999999997"
+                    Point2="0,14"
+                    Point3="4,14" />
+                  <mssgle:LineSegment
+                    End="349.333333333333,14" />
+                  <mssgle:CubicBezierSegment
+                    Point1="349.333333333333,14"
+                    Point2="353.333333333333,14"
+                    Point3="353.333333333333,18" />
+                  <mssgle:LineSegment
+                    End="353.333333333333,20.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -4889,6 +5101,10 @@ from cte</property>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
+          Size="137.333333333334,42.6666666666667"
+          Id="Package\Collect Data CMS\Stage Table"
+          TopLeft="344.999989718199,316.999990552664" />
+        <NodeLayout
           Size="130.666666666667,42.6666666666667"
           Id="Package\Collect Data CMS\GPayment"
           TopLeft="558.499986201525,65.5000008940697" />
@@ -4904,6 +5120,28 @@ from cte</property>
           Size="124,42.6666666666667"
           Id="Package\Collect Data CMS\BL, ROBI"
           TopLeft="144.499996751547,66.499999076128" />
+        <EdgeLayout
+          Id="Package\Collect Data CMS.Paths[Union All Output 1]"
+          TopLeft="412.499989643694,239.66666079561">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,77.3333297570544"
+              Start="0,0"
+              End="0,69.8333297570544">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,69.8333297570544" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Collect Data CMS.Paths[OLE DB Source Output2]"
           TopLeft="623.833319534858,108.166667560736">
@@ -4994,35 +5232,22 @@ from cte</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="137.333333333334,42.6666666666667"
-          Id="Package\Collect Data CMS\Stage Table"
-          TopLeft="344.999989718199,316.999990552664" />
-        <EdgeLayout
-          Id="Package\Collect Data CMS.Paths[Union All Output 1]"
-          TopLeft="412.499989643694,239.66666079561">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,77.3333297570544"
-              Start="0,0"
-              End="0,69.8333297570544">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,69.8333297570544" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Collect Data CMS\Stage Table">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Collect Data CMS\GPayment">
     <Properties>
@@ -5044,19 +5269,6 @@ from cte</property>
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Collect Data CMS\Stage Table">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
